@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-07T11:16:11 EET" name="Default suite" finished-at="2023-06-07T11:16:16 EET" duration-ms="4602">
+    <groups>
+    </groups>
+    <test started-at="2023-06-07T11:16:11 EET" name="Default test" finished-at="2023-06-07T11:16:16 EET" duration-ms="4602">
+      <class name="WebElementTest">
+        <test-method is-config="true" signature="this_is_before_test()[pri:0, instance:WebElementTest@32502377]" started-at="2023-06-07T11:16:11 EET" name="this_is_before_test" finished-at="2023-06-07T11:16:15 EET" duration-ms="3480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- this_is_before_test -->
+        <test-method signature="Textarea_practice()[pri:1, instance:WebElementTest@32502377]" started-at="2023-06-07T11:16:15 EET" name="Textarea_practice" finished-at="2023-06-07T11:16:15 EET" duration-ms="474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Textarea_practice -->
+        <test-method signature="Radio_Button_practice()[pri:2, instance:WebElementTest@32502377]" started-at="2023-06-07T11:16:15 EET" name="Radio_Button_practice" finished-at="2023-06-07T11:16:15 EET" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Radio_Button_practice -->
+        <test-method signature="CheckBox_practice()[pri:3, instance:WebElementTest@32502377]" started-at="2023-06-07T11:16:15 EET" name="CheckBox_practice" finished-at="2023-06-07T11:16:16 EET" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckBox_practice -->
+        <test-method signature="drop_down_list()[pri:4, instance:WebElementTest@32502377]" started-at="2023-06-07T11:16:16 EET" name="drop_down_list" finished-at="2023-06-07T11:16:16 EET" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drop_down_list -->
+        <test-method signature="upload_file()[pri:5, instance:WebElementTest@32502377]" started-at="2023-06-07T11:16:16 EET" name="upload_file" finished-at="2023-06-07T11:16:16 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upload_file -->
+      </class> <!-- WebElementTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
